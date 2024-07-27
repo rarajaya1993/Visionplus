@@ -164,47 +164,10 @@ href='go:luarnegri'">Mancanegara</a></li>
 
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="cnnindo" href="intent://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8|&User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgyjCNGdyW-iSzfRoLkpbd8opvK8WehZXkA&usqp=CAU" class="rounded-lg" width="100" height="75" alt="cnnindo">
-            </a>
-        </div> 
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="cnbcindo" href="intent://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8|&User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="http://www.nettv.live/uploads/allimg/20/1-2003152212160-L.jpg" class="rounded-lg" width="100" height="75" alt="cnbcindo">
-            </a>
-        </div> 
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
             <a title="nettv" href="intent://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|referer=https://visionplus.id/&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
                 <img src="http://www.nettv.live/uploads/allimg/18/1-1P3121530010-L.jpg" class="rounded-lg" width="100" height="75" alt="nettv">
             </a>
         </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="indosiar" href="intent://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|drmScheme=clearkey&drmLicense=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="http://www.nettv.live/uploads/18/1-1PS022062L02.jpg" class="rounded-lg" width="100" height="75" alt="indosiar">
-            </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="sctv" href="intent://habotv.github.io/live/sctp.m3u8?type=rakettv|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="http://www.nettv.live/uploads/19/1-1ZZ5233146318.jpg" class="rounded-lg" width="100" height="75" alt="sctv">
-            </a>
-        </div>
-
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="moji" href="intent://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxlZ__AWRsmxRkqZBpjN9WRDojqdwsUiekQ&usqp=CAU" class="rounded-lg" width="100" height="75" alt="moji">
-            </a>
-        </div>
-
 
    <div class="tv-category-channel animate__animated animate__flip">
             <a title="rcti" href="intent://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referer=https://visionplus.id/&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
