@@ -611,6 +611,67 @@ href="intent://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCn
 
 
 
+<!---TV  KIDS---->
+
+
+<section class="w-100 h-auto mt-4">
+    <div class="tv-category-title mb-2">
+        <h4 class="ml-4">Anak-Anak</h4>
+    </div>
+    <br>
+    <div class="tv-category-channel-container">
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="mykids" href="intent://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" class="rounded-lg" width="100" height="75" alt="mykids">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="kidstv" href="intent://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.mncvision.id/userfiles/image/channel/channel_46.png" class="rounded-lg" width="100" height="75" alt="kidstv">
+            </a>
+        </div> 
+
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="nick" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nickelodeon.webp" class="rounded-lg" width="100" height="75" alt="nick">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="nickjr" href="intent://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nickjr.webp" class="rounded-lg" width="100" height="75" alt="nickjr">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="dreamworks" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-dreamworks-hd.webp" class="rounded-lg" width="100" height="75" alt="dreamworks">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="cbebies" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0K7G_Ih-yrQE25Y5sRgmZIHmBX-lrdgPESA&usqp=CAU" class="rounded-lg" width="100" height="75" alt="cbebies">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="zoomoo" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDcF-Ugin31L4wQIAkvH5U1L9iDokVe-yBA&usqp=CAU" class="rounded-lg" width="100" height="75" alt="zoomoo">
+            </a>
+        </div>
+     </div>
+</section>
+
+
+
 <!---TV SPORTS RUMANIA---->
 
 <section class="w-100 h-auto mt-4">
