@@ -442,131 +442,111 @@ href="intent://mangga-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuT
 
 
 
-
-<!---TV SPORTS THAILAND---->
+<!---TV  news---->
 
 <section class="w-100 h-auto mt-4">
     <div class="tv-category-title mb-2">
-        <h4 class="ml-4">Sports Thailand </h4>
+        <h4 class="ml-4">Berita</h4>
     </div>
     <br>
     <div class="tv-category-channel-container">
 
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="truesport" href="intent://ctrl.laotv.la/live/TrueSport6/index.m3u8|&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport1.webp" class="rounded-lg" width="100" height="75" alt="truesport">
-            </a>
-        </div>
 
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="truesport2" href="intent://ctrl.laotv.la/live/TrueSport2/index.m3u8|&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport2.webp" class="rounded-lg" width="100" height="75" alt="truesport2">
-            </a>
-        </div>
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="truesport3" href="intent://ctrl.laotv.la/live/TrueSport3/index.m3u8|&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport3.webp" class="rounded-lg" width="100" height="75" alt="truesport3">
+  <div class="tv-category-channel animate__animated animate__flip">
+            <a title="sindonews"
+href="intent://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://www.lyngsat.com/logo/tv/ss/sindonews-tv-id.png" class="rounded-lg" width="100" height="75" alt="sindonews">
             </a>
         </div>
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="truesport4" href="intent://m1.ballnaja.com/True_Sports_4/tracks-v1a1/playlist.m3u8|referer=https://service-program-schedule.zmepo.com/api/v1/streaming/?is_active=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport4.webp" class="rounded-lg" width="100" height="75" alt="truesport4">
+            <a title="idx" href="intent://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9b_OZoLs_b9SeUXKWhG7TBD6utgKLDtl3g&usqp=CAU" class="rounded-lg" width="100" height="75" alt="idx">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="seatoday" href="intent://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWwGV1Ochdqb8teOBmhd7V09HC6q785WP8Q&usqp=CAU" class="rounded-lg" width="100" height="75" alt="seatoday">
+            </a>
+        </div>
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="bbcnews" href="intent://cempedak-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAcHXWqRW3goAiZgVLbANhw3KhMcj-CkjbA&usqp=CAU" class="rounded-lg" width="100" height="75" alt="bbcnews">
             </a>
         </div> 
 
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="trueepl1" href="intent://ctrl.laotv.la/live/TSport1/index.m3u8|&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" class="rounded-lg" width="100" height="75" alt="trueepl1">
+            <a title="foxnews" href="intent://cempedak-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png" class="rounded-lg" width="100" height="75" alt="foxnews">
             </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="trueepl2" href="intent://ctrl.laotv.la/live/TSport2/index.m3u8|&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd2.webp" class="rounded-lg" width="100" height="75" alt="trueepl2">
-            </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="trueepl3" href="intent://m1.ballnaja.com/True_Premier_Football_3/tracks-v1a1/playlist.m3u8|referer=https://service-program-schedule.zmepo.com/api/v1/streaming/?is_active=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd3.webp" class="rounded-lg" width="100" height="75" alt="trueepl3">
-            </a>
-        </div>
-       
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="trueepl4" href="intent://m1.ballnaja.com/True_Premier_Football_4/tracks-v1a1/playlist.m3u8|referer=https://service-program-schedule.zmepo.com/api/v1/streaming/?is_active=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd4.webp" class="rounded-lg" width="100" height="75" alt="trueepl4">
-            </a>
-        </div>
+        </div> 
 
 
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="trueepl5" href="intent://m1.ballnaja.com/True_Premier_Football_5/tracks-v1a1/playlist.m3u8|referer=https://service-program-schedule.zmepo.com/api/v1/streaming/?is_active=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd5.webp" class="rounded-lg" width="100" height="75" alt="trueepl5">
+            <a title="euronews" href="intent://cempedak-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJuUmMOfrqrwTvwP4m9qg5jcowD4Gxg82kw&s" class="rounded-lg" width="100" height="75" alt="euronews">
             </a>
-        </div>
+        </div> 
+
 
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="beinthai1" href="intent://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd|drmScheme=clearkey&drmLicense=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-bein-sports1.webp" class="rounded-lg" width="100" height="75" alt="beinthai1">
+            <a title="cnbcasia" href="intent://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu63hUskrb48S3zTxbg7Budwzhr9-P9xZ9ib4OVWgC1Vw8tP1x33bch5Y6&s=10" class="rounded-lg" width="100" height="75" alt="cnbcasia">
             </a>
-        </div>
+        </div> 
+
+
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="beinthai2" href="intent://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd|drmScheme=clearkey&drmLicense=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-bein-sports2.webp" class="rounded-lg" width="100" height="75" alt="beinthai2">
+            <a title="cnanews" href="intent://cempedak-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503403_tvchannels_v1.jpg" class="rounded-lg" width="100" height="75" alt="cnanews">
             </a>
         </div> 
 
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="beinthai3" href="intent://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd|drmScheme=clearkey&drmLicense=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-bein-sports3.webp" class="rounded-lg" width="100" height="75" alt="beinthai3">
+            <a title="dwnews" href="intent://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504940_tvchannels_v1.jpg" class="rounded-lg" width="100" height="75" alt="dwnews">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="Al-Jazeera" href="intent://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503416_tvchannels_v1.jpg" class="rounded-lg" width="100" height="75" alt="Al-Jazeera">
             </a>
         </div>
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="beinthai4" href="intent://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-bein-sports4.webp" class="rounded-lg" width="100" height="75" alt="beinthai4">
+            <a title="rtenglish" href="intent://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="http://www.nettv.live/uploads/20/1-2010311A45AX.jpg" class="rounded-lg" width="100" height="75" alt="rtenglish">
             </a>
         </div>
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="beinthai5" href="intent://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-bein-sports5.webp" class="rounded-lg" width="100" height="75" alt="beinthai5">
+            <a title="france24" href="intent://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503463_tvchannels_v1.jpg" class="rounded-lg" width="100" height="75" alt="france24">
             </a>
         </div>
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="beinthai6" href="intent://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-bein-sports6.webp" class="rounded-lg" width="100" height="75" alt="beinthai6">
+            <a title="trtnews" href="intent://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503423_tvchannels_v1.jpg" class="rounded-lg" width="100" height="75" alt="trtnews">
             </a>
         </div>
 
-<div class="tv-category-channel animate__animated animate__flip">
-            <a title="beinthai7" href="intent://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" class="rounded-lg" width="100" height="75" alt="beinthai7">
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="cgtnnews" href="intent://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="http://www.nettv.live/uploads/18/1-1P5091K21J64.jpg" class="rounded-lg" width="100" height="75" alt="cgtnnews">
             </a>
         </div>
-     </div>
+     </div
 </section>
 
 
