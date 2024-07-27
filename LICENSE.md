@@ -801,6 +801,107 @@ href="intent://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCn
       </div>
 </section>
 
+<!---TV  MUSIK---->
+
+
+<section class="w-100 h-auto mt-4">
+    <div class="tv-category-title mb-2">
+        <h4 class="ml-4">Musik</h4>
+    </div>
+    <br>
+    <div class="tv-category-channel-container">
+
+
+<div class="tv-category-channel animate__animated animate__flip">
+            <a title="mtvlive"
+href="intent://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://www.img06.xyz/assets/img/ch_logo/hd-mtvlive.png" class="rounded-lg" width="100" height="75" alt="mtvlive">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="mtv90" href="intent://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAKVs7sjlbIVKOyUqoIaZsccwqdhJtcrjBA&s" class="rounded-lg" width="100" height="75" alt="mtv90">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="musiktv" href="intent://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzDmALb3dSmTkCp72QF3BRGf9FcnR-JNfsA&s" class="rounded-lg" width="100" height="75" alt="musiktv">
+            </a>
+        </div> 
+    </div>
+</section>
+
+
+<!---TV Religi ---->
+
+<section class="w-100 h-auto mt-4">
+    <div class="tv-category-title mb-2">
+        <h4 class="ml-4">Agama</h4>
+    </div>
+    <br>
+    <div class="tv-category-channel-container">
+
+
+  <div class="tv-category-channel animate__animated animate__flip">
+            <a title="alqurantv"
+href="intent://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEh75n2-jXQKA0XKILLHCXeKcxgeb4QKVfw&usqp=CAU" class="rounded-lg" width="100" height="75" alt="alqurantv">
+            </a>
+        </div>
+
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="tv9NU" href="intent://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRA74HobwfoNQKv86kuZfiZXTlMFszpewQA&usqp=CAU" class="rounded-lg" width="100" height="75" alt="tv9NU">
+            </a>
+        </div> 
+
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="Muhammadiyah" href="intent://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67qwW1u1F-sEku-oDwde7WLWIykjwyu3uOA&usqp=CAU" class="rounded-lg" width="100" height="75" alt="Muhammadiyah">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="tawaftv" href="intent://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="http://www.nettv.live/uploads/allimg/20/1-20020Q625530-L.jpg" class="rounded-lg" width="100" height="75" alt="tawaftv">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="mncmuslim" href="intent://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJObiKahLba7w4OV4yfG6yk0u4TMKfgK_UGQ&usqp=CAU" class="rounded-lg" width="100" height="75" alt="mncmuslim">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="ewtn" href="intent://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVWWXGR5_1WQkx38D56_RRW0remMMFzRz2sw&s" class="rounded-lg" width="100" height="75" alt="ewtn">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="reformed21" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="http://www.nettv.live/uploads/19/1-1ZZ5215201O6.jpg" class="rounded-lg" width="100" height="75" alt="reformed21">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="mnclife" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="http://www.nettv.live/uploads/allimg/20/1-20020Q621280-L.jpg" class="rounded-lg" width="100" height="75" alt="mnclife">
+            </a>
+        </div>
+     </div> 
+</section>
+</main>
+
 <!---TV SPORTS RUMANIA---->
 
 <section class="w-100 h-auto mt-4">
