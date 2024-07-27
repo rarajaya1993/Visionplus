@@ -1,4 +1,4 @@
-untuk yo<!DOCTYPE html>                      
+<!DOCTYPE html>                      
 <html>                                                       
 <head>
 
