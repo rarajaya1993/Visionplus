@@ -323,6 +323,87 @@ href="intent://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vm
                 <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tv5monde.webp" class="rounded-lg" width="100" height="75" alt="tv5monde">
             </a>
         </div>  
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="visionprime" href="intent://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://www.mncvision.id/userfiles/image/channel/channel_1.png" class="rounded-lg" width="100" height="75" alt="visionprime">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="oktv" href="intent://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.mncvision.id/userfiles/image/channel/channel_95.png" class="rounded-lg" width="100" height="75" alt="oktv">
+            </a>
+        </div> 
+
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="mncenter" href="intent://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.mncvision.id/userfiles/image/channel/channel_86.png" class="rounded-lg" width="100" height="75" alt="mncenter">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="Okezonetv" href="intent://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.lyngsat.com/logo/tv/oo/okezone-tv-id.png" class="rounded-lg" width="100" height="75" alt="okezonetv">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="celebtv" href="intent://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvcav9AorN0ybrftxHAciNk2y8Ciim5jShw&usqp=CAU" class="rounded-lg" width="100" height="75" alt="celebtv">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="kix" href="intent://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" class="rounded-lg" width="100" height="75" alt="kix">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="nhkjapan" href="intent://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="http://www.nettv.live/uploads/18/1-1P630223SJ31.jpg" class="rounded-lg" width="100" height="75" alt="nhkjapan">
+            </a>
+        </div>
+
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="nhkpremium" href="intent://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.lyngsat.com/logo/tv/nn/nhk-world-premium-jp.png" class="rounded-lg" width="100" height="75" alt="nhkpremium">
+            </a>
+        </div>
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="animax" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="http://www.nettv.live/uploads/20/1-200ZQ63524525.jpg" class="rounded-lg" width="100" height="75" alt="animax">
+            </a>
+        </div>
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="arirang" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="http://www.nettv.live/uploads/allimg/18/1-1P509203J10-L.jpg" class="rounded-lg" width="100" height="75" alt="arirang">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="tvn" href="intent://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="http://www.nettv.live/uploads/18/1-1P620212115592.jpg" class="rounded-lg" width="100" height="75" alt="tvn">
+            </a>
+        </div>
+
+<div class="tv-category-channel animate__animated animate__flip">
+            <a title="sonyONE" href="intent://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="http://www.nettv.live/uploads/allimg/20/1-20021QK2430-L.jpg" class="rounded-lg" width="100" height="75" alt="sonyONE">
+            </a>
+        </div>
        </div>
 </section>
 
