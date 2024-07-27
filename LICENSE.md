@@ -266,140 +266,64 @@ href='go:luarnegri'">Mancanegara</a></li>
 
 
 
-<!---TV SPORTS Malaysia ---->
+
+<!---TV  Entertainment---->
 
 
 <section class="w-100 h-auto mt-4">
     <div class="tv-category-title mb-2">
-        <h4 class="ml-4">Sports Malaysia </h4>
+        <h4 class="ml-4">Hiburan</h4>
     </div>
     <br>
     <div class="tv-category-channel-container">
 
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="astroarena" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd|drmScheme=clearkey&drmLicense=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png" class="rounded-lg" width="100" height="75" alt="astroarena">
-            </a>
-        </div>
-
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="astroarena2" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd|drmScheme=clearkey&drmLicense=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png" class="rounded-lg" width="100" height="75" alt="astroarena2">
-            </a>
-        </div>
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="astrosport1" href="intent://247c.mrgamingstreams.com/mrgamingespn.m3u8|referer=https://mrgamingstreams.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" class="rounded-lg" width="100" height="75" alt="astrosport1">
+  <div class="tv-category-channel animate__animated animate__flip">
+            <a title="rockenter"
+href="intent://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-rock-entertainment.webp" class="rounded-lg" width="100" height="75" alt="rockenter">
             </a>
         </div>
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="astrosport2" href="intent://m2.ballnaja.com/assp2/tracks-v1a1/playlist.m3u8|referer=https://service-program-schedule.zmepo.com/api/v1/streaming/?is_active=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" class="rounded-lg" width="100" height="75" alt="astrosport2">
+            <a title="axn" href="intent://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-axn-hd.webp" class="rounded-lg" width="100" height="75" alt="axn">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="lifetime" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-lifetime.webp" class="rounded-lg" width="100" height="75" alt="lifetime">
+            </a>
+        </div> 
+
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="hits" href="intent://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.img02.xyz/assets/img/ch_logo/HITS.png" class="rounded-lg" width="100" height="75" alt="hits">
             </a>
         </div> 
 
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="astrosport3" href="intent://m2.ballnaja.com/assp3/tracks-v1a1/playlist.m3u8|referer=https://service-program-schedule.zmepo.com/api/v1/streaming/?is_active=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" class="rounded-lg" width="100" height="75" alt="astrosport3">
-            </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="astrosport4" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd|drmScheme=clearkey&drmLicense=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" class="rounded-lg" width="100" height="75" alt="astrosport4">
-            </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="bein1my" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd|drmScheme=clearkey&drmLicense=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/bein-sports-656x388.jpg" class="rounded-lg" width="100" height="75" alt="bein1my">
-            </a>
-        </div>
-       
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="bein2my" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd|drmScheme=clearkey&drmLicense=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/bin-sports-2-656x388.jpg" class="rounded-lg" width="100" height="75" alt="bein2my">
-            </a>
-        </div>
-
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="bein3my" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd|drmScheme=clearkey&drmLicense=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/bin-sports-3-656x388.jpg" class="rounded-lg" width="100" height="75" alt="bein3my">
-            </a>
-        </div>
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="beinrugby" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5125/default.mpd|drmScheme=clearkey&drmLicense=fc49573b4f964be0b40534498ce8d62e:065c108296d78d51a8544cc42a1aa768#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjvcfIflMgfdlQB7vOdbdgZ4aK85g9ZauJw&usqp=CAU" class="rounded-lg" width="100" height="75" alt="beinrugby">
-            </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="spotvmy" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd|drmScheme=clearkey&drmLicense=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv-656x388.jpg" class="rounded-lg" width="100" height="75" alt="spotvmy">
+            <a title="fmn" href="intent://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.mncvision.id/userfiles/image/channel/150x150fmn.jpg" class="rounded-lg" width="100" height="75" alt="fmn">
             </a>
         </div> 
 
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="spotv2my" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd|drmScheme=clearkey&drmLicense=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2-656x388.jpg" class="rounded-lg" width="100" height="75" alt="spotv2my">
+            <a title="abcAustralia" href="intent://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCh5iFwx77mog2UWkpNxyNthG8R59-HgNWOQ&usqp=CAU" class="rounded-lg" width="100" height="75" alt="abcAustralia">
             </a>
         </div>
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="Eurosport" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd|drmScheme=clearkey&drmLicense=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/eurosport-656x388.jpg" class="rounded-lg" width="100" height="75" alt="Eurosport">
+            <a title="tv5monde" href="intent://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tv5monde.webp" class="rounded-lg" width="100" height="75" alt="tv5monde">
             </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="wwe" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd|drmScheme=clearkey&drmLicense=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" class="rounded-lg" width="100" height="75" alt="wwe">
-            </a>
-        </div>
-       
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="golfchannel" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/1003/default.mpd|drmScheme=clearkey&drmLicense=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" class="rounded-lg" width="100" height="75" alt="golfchannel">
-            </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="premiersport" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd|drmScheme=clearkey&drmLicense=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwFfoufv395QQ5klyeeJI2fOyNTtpsKoIrJg&usqp=CAU" class="rounded-lg" width="100" height="75" alt="premiersport">
-            </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="astrocricket" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/aa/astro_cricket_my.png" class="rounded-lg" width="100" height="75" alt="astrocricket">
-            </a>
-        </div>
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="w-sport" href="intent://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5060/default.mpd|drmScheme=clearkey&drmLicense=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503269_tvchannels_v1.jpg" class="rounded-lg" width="100" height="75" alt="w-sport">
-            </a>
-        </div>
-      </div>
+        </div>  
+       </div>
 </section>
 
 
