@@ -549,55 +549,59 @@ href="intent://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCn
      </div
 </section>
 
-
-
-<!---TV SPORTS INDIA---->
+<!---TV  KNOWLEDGE---->
 
 <section class="w-100 h-auto mt-4">
     <div class="tv-category-title mb-2">
-        <h4 class="ml-4">Sports India</h4>
+        <h4 class="ml-4">Pengetahuan</h4>
     </div>
     <br>
     <div class="tv-category-channel-container">
 
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="sony1" href="intent://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" class="rounded-lg" width="100" height="75" alt="sony1">
-            </a>
-        </div>
-
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="sony2" href="intent://neestreamtv.com/sliv/master.m3u8?id=1000009277|referer=https://neestreamtv.com/sliv/play.php?id=1000009277&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" class="rounded-lg" width="100" height="75" alt="sony2">
-            </a>
-        </div>
-
-
-   <div class="tv-category-channel animate__animated animate__flip">
-            <a title="sony3" href="intent://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" class="rounded-lg" width="100" height="75" alt="sony3">
+            <a title="bbcearth" href="intent://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-bbc-earth.webp" class="rounded-lg" width="100" height="75" alt="bbcearth">
             </a>
         </div>
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="sony4" href="intent://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png" class="rounded-lg" width="100" height="75" alt="sony4">
+            <a title="history" href="intent://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-history-hd.webp" class="rounded-lg" width="100" height="75" alt="history">
+            </a>
+        </div> 
+
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="crime" href="intent://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-crime+investigation.webp" class="rounded-lg" width="100" height="75" alt="crime">
             </a>
         </div> 
 
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="sony5" href="intent://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
-                <img src="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" class="rounded-lg" width="100" height="75" alt="sony5">
+            <a title="globaltrek" href="intent://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhsUSfpeuLTftaOLqEzf21hreoULiz6Qu4yQ&usqp=CAU" class="rounded-lg" width="100" height="75" alt="globaltrek">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="cgtndoc" href="intent://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="http://www.nettv.live/uploads/18/1-1P5091P409564.jpg" class="rounded-lg" width="100" height="75" alt="cgtndoc">
             </a>
         </div>
 
    <div class="tv-category-channel animate__animated animate__flip">
-            <a title="sports18" href="intent://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
-                <img src="https://www.lyngsat.com/logo/tv/ss/sports-18-in.png" class="rounded-lg" width="100" height="75" alt="sports18">
+            <a title="outdoor" href="intent://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-outdoor.webp" class="rounded-lg" width="100" height="75" alt="outdoor">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="lovenature" href="intent://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://visionplus.id&drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-love-nature.webp" class="rounded-lg" width="100" height="75" alt="lovenature">
             </a>
         </div>
      </div>
