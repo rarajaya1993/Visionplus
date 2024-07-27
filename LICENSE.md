@@ -1,4 +1,4 @@
-<!DOCTYPE html>                      
+untuk yo<!DOCTYPE html>                      
 <html>                                                       
 <head>
 
@@ -404,6 +404,39 @@ href="intent://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vm
                 <img src="http://www.nettv.live/uploads/allimg/20/1-20021QK2430-L.jpg" class="rounded-lg" width="100" height="75" alt="sonyONE">
             </a>
         </div>
+
+  <div class="tv-category-channel animate__animated animate__flip">
+            <a title="JiangsuTV"
+href="intent://mangga-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd|drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png" class="rounded-lg" width="100" height="75" alt="JiangsuTV">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="hunanTV" href="intent://mangga-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd|drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end ">
+                <img src="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png" class="rounded-lg" width="100" height="75" alt="hunanTV">
+            </a>
+        </div>
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="dragonTV" href="intent://mangga-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png" class="rounded-lg" width="100" height="75" alt="dragonTV">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="anhuiTV" href="intent://mangga-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd|drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png" class="rounded-lg" width="100" height="75" alt="anhuiTV">
+            </a>
+        </div> 
+
+
+   <div class="tv-category-channel animate__animated animate__flip">
+            <a title="XingkongTV" href="intent://mangga-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd|drmScheme=widevine&drmLicense=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=EstoTV;end">
+                <img src="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png" class="rounded-lg" width="100" height="75" alt="XingkongTV">
+            </a>
+        </div>	
        </div>
 </section>
 
